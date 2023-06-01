@@ -35,13 +35,11 @@ There can be better set of hyperparameters (even individual model wise). I can s
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
 
 ![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
 
 ![model_test_score.png](img/model_test_score.png)
 
